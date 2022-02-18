@@ -16,8 +16,7 @@
 👨🏼‍💻 I'm also a **professor** and **advisor** who loves providing mentorship. </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
- <b><i>I really believe that technology and education have the power to improve people's quality of live. 
-    
+   
 <br/>
 <hr />
   
